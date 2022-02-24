@@ -1,0 +1,6 @@
+INPUTFILE=./inputfile.txt
+OUTPUTFILE=./outputfile.txt
+WORKER1=com.company.MyWorker,worker1Config.txt
+WORKER2=com.company.MyWorker,worker2Config.txt
+WORKER3=com.company.DimWorker,worker3Config.txt
+WORKER4=com.company.DimWorker,worker4Config.txt

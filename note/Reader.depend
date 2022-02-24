@@ -1,0 +1,290 @@
+# depslib dependency file v1.0
+1582380431 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	"textstruct.h"
+	"menu.h"
+	"servicestruct.h"
+
+1576240278 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\textstruct.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"windowstruct.h"
+
+1580381394 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\windowstruct.h
+
+1578650598 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\menu.h
+	<windows.h>
+	"windowstruct.h"
+	"servicestruct.h"
+
+1580218931 c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\servicestruct.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<math.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+
+1578685031 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\menu.cpp
+	"menu.h"
+
+1578684056 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\res.rc
+	"menu.h"
+
+1581778424 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\servicestruct.cpp
+	"servicestruct.h"
+	<limits.h>
+
+1580224250 source:c:\users\dmitr\onedrive\Рабочий стол\winapi\reader\textstruct.cpp
+	"textstruct.h"
+	"servicestruct.h"
+
+1582795501 source:c:\studing\reader-master origin\menu.cpp
+	"menu.h"
+
+1582795501 c:\studing\reader-master origin\menu.h
+	<windows.h>
+	"windowstruct.h"
+	"servicestruct.h"
+
+1614967693 c:\studing\reader-master origin\windowstruct.h
+
+1582795501 c:\studing\reader-master origin\servicestruct.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<math.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+
+1582795501 c:\studing\reader-master origin\textstruct.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"windowstruct.h"
+
+1582795501 source:c:\studing\reader-master origin\res.rc
+	"menu.h"
+
+1615238213 source:c:\studing\reader-master origin\servicestruct.cpp
+	"servicestruct.h"
+	<limits.h>
+
+1615237220 source:c:\studing\reader-master origin\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	"textstruct.h"
+	"menu.h"
+	"servicestruct.h"
+
+1614967693 source:c:\studing\reader-master origin\textstruct.cpp
+	"textstruct.h"
+	"servicestruct.h"
+
+1582795501 source:c:\studing\reader\menu.cpp
+	"menu.h"
+
+1582795501 c:\studing\reader\menu.h
+	<windows.h>
+	"windowstruct.h"
+	"servicestruct.h"
+
+1615879596 c:\studing\reader\windowstruct.h
+
+1615879859 c:\studing\reader\servicestruct.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<math.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+
+1582795501 c:\studing\reader\textstruct.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"windowstruct.h"
+
+1615871853 source:c:\studing\reader\res.rc
+	"menu.h"
+
+1614967693 source:c:\studing\reader\textstruct.cpp
+	"textstruct.h"
+	"servicestruct.h"
+
+1615887077 source:c:\studing\reader\servicestruct.cpp
+	"servicestruct.h"
+	<limits.h>
+
+1615887077 source:c:\studing\reader\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	"textstruct.h"
+	"menu.h"
+	"servicestruct.h"
+
+1616493675 source:d:\blocknotes\readermain\readermain\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	"textstruct.h"
+	"menu.h"
+	"windowstruct.h"
+	"caret.h"
+	"viewscroll.h"
+	"init.h"
+
+1616493675 d:\blocknotes\readermain\readermain\textstruct.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"windowstruct.h"
+
+1616493675 d:\blocknotes\readermain\readermain\windowstruct.h
+
+1616255092 d:\blocknotes\readermain\readermain\menu.h
+	<windows.h>
+	"windowstruct.h"
+	"servicestruct.h"
+
+1616493573 d:\blocknotes\readermain\readermain\servicestruct.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<math.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+
+1616255092 source:d:\blocknotes\readermain\readermain\menu.cpp
+	"menu.h"
+
+1616488171 source:d:\blocknotes\readermain\readermain\res.rc
+	"menu.h"
+
+1616493579 source:d:\blocknotes\readermain\readermain\servicestruct.cpp
+	"servicestruct.h"
+	<limits.h>
+
+1616493675 source:d:\blocknotes\readermain\readermain\textstruct.cpp
+	"textstruct.h"
+	"windowstruct.h"
+
+1616493699 d:\blocknotes\readermain\readermain\caret.h
+	<windows.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"viewscroll.h"
+
+1616493675 d:\blocknotes\readermain\readermain\viewscroll.h
+	<windows.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"caret.h"
+
+1616494595 d:\blocknotes\readermain\readermain\init.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+	"caret.h"
+
+1616493675 source:d:\blocknotes\readermain\readermain\caret.cpp
+	"caret.h"
+
+1616494595 source:d:\blocknotes\readermain\readermain\init.cpp
+	"init.h"
+	"caret.h"
+
+1616494595 source:d:\blocknotes\readermain\readermain\viewscroll.cpp
+	"viewscroll.h"
+
+1617425805 source:d:\desktop\readermain\caret.cpp
+	"caret.h"
+
+1617425805 d:\desktop\readermain\caret.h
+	<windows.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"viewscroll.h"
+
+1617447070 d:\desktop\readermain\textstruct.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"windowstruct.h"
+
+1617425805 d:\desktop\readermain\windowstruct.h
+
+1617425805 d:\desktop\readermain\viewscroll.h
+	<windows.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"caret.h"
+
+1617447070 source:d:\desktop\readermain\init.cpp
+	"init.h"
+	"caret.h"
+
+1617447070 d:\desktop\readermain\init.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+	"caret.h"
+
+1617447070 d:\desktop\readermain\menu.h
+	<windows.h>
+	"windowstruct.h"
+	"servicestruct.h"
+
+1617425805 d:\desktop\readermain\servicestruct.h
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	<math.h>
+	"textstruct.h"
+	"windowstruct.h"
+	"menu.h"
+
+1645723155 source:d:\desktop\readermain\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	"textstruct.h"
+	"menu.h"
+	"windowstruct.h"
+	"caret.h"
+	"viewscroll.h"
+	"init.h"
+
+1616255092 source:d:\desktop\readermain\menu.cpp
+	"menu.h"
+
+1617447070 source:d:\desktop\readermain\res.rc
+	"menu.h"
+
+1617447070 source:d:\desktop\readermain\textstruct.cpp
+	"textstruct.h"
+	"windowstruct.h"
+
+1617425805 source:d:\desktop\readermain\viewscroll.cpp
+	"viewscroll.h"
+

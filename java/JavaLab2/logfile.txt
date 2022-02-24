@@ -1,0 +1,1 @@
+2020-09-19T17:56:53.558051500: com.company.TaskConfigReader@65b3120a: Invalid syntax in worker config value. value have to be 'workerClassName,workerConfigFile'

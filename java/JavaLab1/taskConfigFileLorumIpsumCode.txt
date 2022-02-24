@@ -1,0 +1,3 @@
+INPUTFILE=./inputfileLorumIpsum.txt
+OUTPUTFILE=./outputfileLorumIpsumCode.txt
+WORKER_CONFIG=./workerConfigEncode.txt

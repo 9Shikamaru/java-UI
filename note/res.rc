@@ -1,0 +1,19 @@
+#include "menu.h"
+
+MYMENU MENU{
+    POPUP "File"{
+        MENUITEM "Open", IDM_OPEN
+        MENUITEM "Save", IDM_SAVE
+        MENUITEM "Quit", IDM_QUIT
+    }
+
+    POPUP "View"{
+        MENUITEM "Layout", IDM_LAYOUT
+        MENUITEM "Non-layout", IDM_NON_LAYOUT
+    }
+
+    POPUP "Help"{
+        MENUITEM "About program", IDM_ABOUT
+    }
+}
+
